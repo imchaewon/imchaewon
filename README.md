@@ -1,4 +1,8 @@
-### Hi there 👋
+### 주니어 백엔드개발자 임채원입니다. 👋
+
+▶ GitHub Readme Stats: github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true
+github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=dark
+github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8
 
 <!--
 **imchaewon/imchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
