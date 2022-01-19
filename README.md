@@ -2,9 +2,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=radical)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8&theme=dark)
 
 <a href="javascript:"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=fff"/></a>
