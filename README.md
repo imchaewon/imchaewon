@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8&theme=dark)
 
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=plastic&logo=로고&logoColor=로고색"/></a>
+
 <!--
 **imchaewon/imchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
