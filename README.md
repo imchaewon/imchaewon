@@ -6,11 +6,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8&theme=dark)
 
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=plastic&logo=Java&logoColor=#007396"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=Java&logoColor=#007396"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=Java&logoColor=#007396"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=social&logo=Java&logoColor=#007396"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=plastic&logo=Java&logoColor=007396"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=Java&logoColor=007396"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=007396"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=Java&logoColor=007396"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-#007396?style=social&logo=Java&logoColor=007396"/></a>
 
 <!--
 **imchaewon/imchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
