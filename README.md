@@ -11,7 +11,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=CC6699"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=blueviolet"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=orange"/></a>
 
 (시간별 커밋도 넣기)
 
