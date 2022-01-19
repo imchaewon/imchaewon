@@ -6,7 +6,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8&theme=dark)
 
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-CC6699?style=flat&logo=Java&logoColor=007396"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=CC6699"/></a>
 
 (시간별 커밋도 넣기)
 
