@@ -1,9 +1,10 @@
 ### 주니어 백엔드개발자 임채원입니다. 👋
 
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&langs_count=8&theme=dark)
 
 <!--
 **imchaewon/imchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
