@@ -2,6 +2,8 @@
 
 ---
 
+![header](https://capsule-render.vercel.app/api?type=Waving)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imchaewon&langs_count=8&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=radical)
 
