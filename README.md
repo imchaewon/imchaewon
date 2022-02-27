@@ -15,7 +15,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=blueviolet"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=CC6699"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=orange"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-#0079C1?style=flat&logo=Spring Boot&logoColor=FF0000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-0079C1?style=flat&logo=Spring Boot&logoColor=FF0000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff"/></a>
   
