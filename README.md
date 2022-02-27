@@ -16,6 +16,10 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=CC6699"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=orange"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=FF0000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Docker-6DB33F?style=flat&logo=Docker&logoColor=2496ED"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-6DB33F?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
+  
+  
 </div>
 
 
