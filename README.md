@@ -18,6 +18,9 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=0079C1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/-MySql-brightgreen"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/-Python-blue"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/-Selenium-yellowgreen"/></a>
   
   
 </div>
