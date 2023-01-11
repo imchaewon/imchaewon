@@ -18,8 +18,8 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=0079C1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL&logoColor=fff"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=red"/></a>
   
   
