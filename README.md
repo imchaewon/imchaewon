@@ -13,7 +13,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/MySql-E0C189?logo=MySQL&logoColor=4479A1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-FFA65C?style=flat&logo=Spring&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-E0889F?style=flat&logo=Spring Boot&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-F7A7FA?style=flat&logo=Spring Boot&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-E0993D?style=flat&logo=Docker&logoColor=2496ED"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-9EFFF5?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
