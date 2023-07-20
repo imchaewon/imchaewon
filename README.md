@@ -40,7 +40,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-FFDEAD?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-FFDEAD?style=flat&logo=jQuery&logoColor=0769AD"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Photoshop-F79300?logo=adobephotoshop&logoColor=31A8FF"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Photoshop-634210?logo=adobephotoshop&logoColor=31A8FF"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Illustrator-008DF7?logo=adobeillustrator&logoColor=FF9A00"/></a>
   
   
