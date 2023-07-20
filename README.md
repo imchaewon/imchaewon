@@ -26,6 +26,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Shell-43B02A?logo=powershell&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-43B02A?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-43B02A?logo=sourcetree&logoColor=0052CC"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Postman-43B02A?logo=postman&logoColor=FF6C37"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/AWS-43B02A?logo=amazonaws&logoColor=232F3E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-43B02A?logo=macos&logoColor=000"/></a>
