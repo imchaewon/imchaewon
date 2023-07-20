@@ -30,7 +30,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-F5E9C0?logo=sourcetree&logoColor=0052CC"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Notion-fff?logo=notion&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/FileZilla-A7FABF?logo=filezilla&logoColor=BF0000"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/AWS-4D360C?logo=amazonaws&logoColor=2986FF"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/AWS-786A50?logo=amazonaws&logoColor=232F3E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/VirtualBox-E3BF7D?logo=virtualbox&logoColor=183A61"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-F58482?logo=macos&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
