@@ -10,20 +10,20 @@
 <div>
 <a href="javascript:"><img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=fff"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/MySql-E0C189?logo=MySQL&logoColor=4479A1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-FFA65C?style=flat&logo=Spring&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-E0889F?style=flat&logo=Spring Boot&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-E0993D?style=flat&logo=Docker&logoColor=2496ED"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-9EFFF5?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/MySql-E0C189?logo=MySQL&logoColor=4479A1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Python-FFDC7D?logo=Python&logoColor=3776AB"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-E0A6B0?logo=Selenium&logoColor=43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-A6E0BA?logo=google&logoColor=E62A33"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-A6D8E0?logo=jenkins&logoColor=D24939"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-C0A6E0?logo=linux&logoColor=FCC624"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Shell-4F3601?logo=powershell&logoColor=5391FE"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Shell-000?logo=powershell&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-F58482?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-F5E9C0?logo=sourcetree&logoColor=0052CC"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
