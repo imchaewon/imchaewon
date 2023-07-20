@@ -21,7 +21,21 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=red"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Selenium1-43B02A?logo=Selenium2&logoColor=red"/></a>
+
+<a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/GWT-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Linux-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Shell-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JSON-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/AWS-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/macOS-43B02A?logo=Selenium&logoColor=red"/></a>
   
   
 </div>
