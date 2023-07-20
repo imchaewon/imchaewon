@@ -21,6 +21,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=asd&logoColor=red"/></a>
   
   
 </div>
