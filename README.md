@@ -17,6 +17,10 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-E0993D?style=flat&logo=Docker&logoColor=2496ED"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-9EFFF5?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-BCADFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JSON-ADFFC4?logo=json&logoColor=000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Python-FFDC7D?logo=Python&logoColor=3776AB"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-E0A6B0?logo=Selenium&logoColor=43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-A6E0BA?logo=google&logoColor=E62A33"/></a>
@@ -36,10 +40,8 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-FFDEAD?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-FFDEAD?style=flat&logo=jQuery&logoColor=0769AD"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-BCADFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JSON-ADFFC4?logo=json&logoColor=000"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Photoshop-F79300?logo=adobephotoshop&logoColor=31A8FF"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Illustrator-008DF7?logo=adobeillustrator&logoColor=FF9A00"/></a>
   
   
 </div>
