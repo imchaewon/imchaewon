@@ -23,7 +23,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-A6D8E0?logo=jenkins&logoColor=D24939"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-C0A6E0?logo=linux&logoColor=FCC624"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Shell-96690B?logo=powershell&logoColor=5391FE"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Shell-4F3601?logo=powershell&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-F58482?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-F5E9C0?logo=sourcetree&logoColor=0052CC"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
