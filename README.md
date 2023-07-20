@@ -26,15 +26,16 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Shell-000?logo=powershell&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-F58482?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-F5E9C0?logo=sourcetree&logoColor=0052CC"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-fff?logo=notion&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/AWS-E3BF7D?logo=amazonaws&logoColor=232F3E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-F58482?logo=macos&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-FFDEAD?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-FFDEAD?style=flat&logo=jQuery&logoColor=0769AD"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-BCADFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JSON-ADFFC4?logo=json&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JSON-ADFFC4?logo=json&logoColor=000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
   
   
 </div>
