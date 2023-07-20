@@ -43,8 +43,8 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-FFDEAD?style=flat&logo=jQuery&logoColor=0769AD"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Photoshop-634210?logo=adobephotoshop&logoColor=31A8FF"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Illustrator-008DF7?logo=adobeillustrator&logoColor=FF9A00"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftAccess-106326?logo=microsoftaccess&logoColor=A4373A"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftExcel-106326?logo=microsoftexcel&logoColor=631710"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftAccess-93DBA6?logo=microsoftaccess&logoColor=A4373A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftExcel-DB9993?logo=microsoftexcel&logoColor=631710"/></a>
   
   
 </div>
