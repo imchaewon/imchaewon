@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=radical)
 
 <div>
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=coffeescript&logoColor=2F2625"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/MySql-E0C189?logo=MySQL&logoColor=4479A1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
