@@ -8,34 +8,33 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchaewon&show_icons=true&theme=radical)
 
 <div>
-<a href="javascript:"><img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=fff"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/HTML5-007396?style=flat&logo=HTML5&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=CC6699"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=blueviolet"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=CC6699"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=orange"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=0079C1"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-0079C1?style=flat&logo=Spring Boot&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=red"/></a>
-
-<a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-43B02A?logo=google&logoColor=E62A33"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A&logoColor=1D1718"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-43B02A?logo=jenkins&logoColor=D24939"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-43B02A?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-43B02A?logo=linux&logoColor=FCC624"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Shell-43B02A?logo=powershell&logoColor=5391FE"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JSON-43B02A?logo=json&logoColor=000"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-43B02A?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-43B02A?logo=sourcetree&logoColor=0052CC"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/AWS-43B02A?logo=amazonaws&logoColor=232F3E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-43B02A?logo=macos&logoColor=000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/HTML5-007396?style=flat&logo=HTML5&logoColor=E34F26"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=1572B6"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=CC6699"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=blueviolet"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JSON-43B02A?logo=json&logoColor=000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
   
   
 </div>
