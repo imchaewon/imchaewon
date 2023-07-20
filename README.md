@@ -33,8 +33,8 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-FFDEAD?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-FFDEAD?style=flat&logo=jQuery&logoColor=0769AD"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-BCADFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JSON-ADFFC4?logo=json&logoColor=000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
   
   
