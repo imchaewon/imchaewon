@@ -14,11 +14,11 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-0079C1?style=flat&logo=Spring Boot&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=red"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=2496ED"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/MySql-4479A1?logo=MySQL&logoColor=4479A1"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=3776AB"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-43B02A?logo=google&logoColor=E62A33"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-43B02A?logo=jenkins&logoColor=D24939"/></a>
@@ -26,7 +26,6 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Shell-43B02A?logo=powershell&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-43B02A?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-43B02A?logo=sourcetree&logoColor=0052CC"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Postman-43B02A?logo=postman&logoColor=FF6C37"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/AWS-43B02A?logo=amazonaws&logoColor=232F3E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-43B02A?logo=macos&logoColor=000"/></a>
