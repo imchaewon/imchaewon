@@ -17,7 +17,10 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-E0993D?style=flat&logo=Docker&logoColor=2496ED"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-9EFFF5?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-BCADFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-6A4AFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/npm-4AFF7D?style=flat&logo=npm&logoColor=CB3837"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Node.js-FF4AA4?style=flat&logo=nodedotjs&logoColor=339933"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/express-9DCAFF?style=flat&logo=express&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JSON-ADFFC4?logo=json&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ajax-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Stream-43B02A"/></a>
