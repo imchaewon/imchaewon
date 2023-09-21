@@ -39,7 +39,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/SublimeText-A7D6FA?logo=sublimetext&logoColor=FF9800"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SourceTree-F5E9C0?logo=sourcetree&logoColor=0052CC"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Notion-fff?logo=notion&logoColor=000"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/jira-fff?logo=jira&logoColor=000"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/jira-fff?logo=jira&logoColor=0052CC"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/confluence-fff?logo=confluence&logoColor=172B4D"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jandi-fff?logo=&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/FileZilla-A7FABF?logo=filezilla&logoColor=BF0000"/></a>
