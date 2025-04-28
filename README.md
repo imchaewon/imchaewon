@@ -40,7 +40,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-A6E0BA?logo=google&logoColor=E62A33"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-A6D8E0?logo=jenkins&logoColor=D24939"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/GitlabCI?logo=gitlab&logoColor=D24939"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/GitlabCI-F7A7FA?logo=gitlab&logoColor=D24939"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-F58482?logo=macos&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Vim-631210?logo=vim&logoColor=019733"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-C0A6E0?logo=linux&logoColor=FCC624"/></a>
