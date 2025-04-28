@@ -14,13 +14,19 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-FFA65C?style=flat&logo=Spring&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-C2A9AF?style=flat&logo=springboot&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Spring Data JPA-C2A9AF?style=flat&logo=&logoColor="/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Spring Cloud OpenFeign-C2A9AF?style=flat&logo=&logoColor="/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SpringSecurity-C1A9C2?style=flat&logo=springsecurity&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/QueryDSL-C2A9AF?style=flat&logo=&logoColor="/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Apache Maven-98CCA2?style=flat&logo=apachemaven&logoColor=C71A36"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Gradle-C2B4A9?style=flat&logo=gradle&logoColor=02303A"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/SpringSecurity-C1A9C2?style=flat&logo=springsecurity&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Swagger-8F4E96?style=flat&logo=swagger&logoColor=85EA2D"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Redis-A9C2B3?style=flat&logo=redis&logoColor=FF4438"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/RSocket-ABC2A9?style=flat&logo=rsocket&logoColor=EF0092"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/ApacheJMeter-A9C2AF?style=flat&logo=apachejmeter&logoColor=D22128"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JUnit-C2ABA9?style=flat&logo=junit5&logoColor=25A162"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/jacoco-C2ABA9?style=flat&logo=&logoColor="/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/MockWebServer-C2ABA9?style=flat&logo=&logoColor="/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Postman-A9C2BD?style=flat&logo=postman&logoColor=FF6C37"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/OpenSearch-C2B8A9?style=flat&logo=opensearch&logoColor=005EB8"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Logstash-C2B5A9?style=flat&logo=logstash&logoColor=005571"/></a>
@@ -69,6 +75,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Illustrator-008DF7?logo=adobeillustrator&logoColor=FF9A00"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftAccess-93DBA6?logo=microsoftaccess&logoColor=A4373A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftExcel-DB9993?logo=microsoftexcel&logoColor=631710"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Obsidian-EBE22D?logo=obsidian&logoColor=7C3AED"/></a>
   
   
 </div>
