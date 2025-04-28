@@ -25,6 +25,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Telegraph-F7A7FA?style=flat&logo=telegraph&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-E0993D?style=flat&logo=Docker&logoColor=2496ED"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/VirtualBox-F7A7FA?style=virtualbox&logo=apachejmeter&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-9EFFF5?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/JavaScript-6A4AFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/jQuery-FFDEAD?style=flat&logo=jQuery&logoColor=0769AD"/></a>
