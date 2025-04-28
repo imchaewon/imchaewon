@@ -45,9 +45,9 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/GitlabCI-A9C2C0?logo=gitlab&logoColor=FC6D26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-F58482?logo=macos&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Vim-631210?logo=vim&logoColor=019733"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Linux-C0A6E0?logo=linux&logoColor=FCC624"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/CentOS-C0A6E0?logo=centos&logoColor=FCC624"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-C0A6E0?logo=ubuntu&logoColor=FCC624"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Linux-857C62?logo=linux&logoColor=FCC624"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/CentOS-416D64?logo=centos&logoColor=262577"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-C0A6E0?logo=ubuntu&logoColor=E95420"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Shell-000?logo=&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-F58482?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Visual Studio Code-FAD8A7?logo=visualstudiocode&logoColor=007ACC"/></a>
