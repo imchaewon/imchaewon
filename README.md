@@ -49,7 +49,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-A6E0BA?logo=google&logoColor=E62A33"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-A9C2B5?logo=jenkins&logoColor=D24939"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/GitlabCI-A9C2C0?logo=gitlab&logoColor=FC6D26"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Gitlab CI/CD-A9C2C0?logo=gitlab&logoColor=FC6D26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-F58482?logo=macos&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Vim-631210?logo=vim&logoColor=019733"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-857C62?logo=linux&logoColor=FCC624"/></a>
