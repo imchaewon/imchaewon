@@ -14,6 +14,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-FFA65C?style=flat&logo=Spring&logoColor=6DB33F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-C2A9AF?style=flat&logo=springboot&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JPA-C2A9AF?style=flat&logo=&logoColor="/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring Data JPA-C2A9AF?style=flat&logo=&logoColor="/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring Cloud OpenFeign-C2A9AF?style=flat&logo=&logoColor="/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SpringSecurity-C1A9C2?style=flat&logo=springsecurity&logoColor=6DB33F"/></a>
