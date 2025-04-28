@@ -66,6 +66,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/jandi-fff?logo=&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/FileZilla-A7FABF?logo=filezilla&logoColor=BF0000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/AWS-DBC293?logo=amazonaws&logoColor=232F3E"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/OpenStack-2DEB4D?logo=openstack&logoColor=ED1944"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/VirtualBox-E3BF7D?logo=virtualbox&logoColor=183A61"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Unity-ADFFE7?style=flat&logo=unity&logoColor=183A61"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
