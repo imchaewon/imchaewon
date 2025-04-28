@@ -13,16 +13,18 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/MySql-E0C189?logo=MySQL&logoColor=4479A1"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Mybatis-43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Spring-FFA65C?style=flat&logo=Spring&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-F7A7FA?style=flat&logo=springboot&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/SpringSecurity-F7A7FA?style=flat&logo=springsecurity&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Redis-F7A7FA?style=flat&logo=redis&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/RSocket-F7A7FA?style=flat&logo=rsocket&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/ApacheJMeter-F7A7FA?style=flat&logo=apachejmeter&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/JUnit-F7A7FA?style=flat&logo=junit5&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Postman-F7A7FA?style=flat&logo=postman&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/OpenSearch-F7A7FA?style=flat&logo=opensearch&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Logstash-F7A7FA?style=flat&logo=logstash&logoColor=6DB33F"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Telegraph-F7A7FA?style=flat&logo=telegraph&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SpringBoot-C2A9AF?style=flat&logo=springboot&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Apache Maven-98CCA2?style=flat&logo=apachemaven&logoColor=C71A36"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Gradle-C2B4A9?style=flat&logo=gradle&logoColor=02303A"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/SpringSecurity-C1A9C2?style=flat&logo=springsecurity&logoColor=6DB33F"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Redis-A9C2B3?style=flat&logo=redis&logoColor=FF4438"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/RSocket-ABC2A9?style=flat&logo=rsocket&logoColor=EF0092"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/ApacheJMeter-A9C2AF?style=flat&logo=apachejmeter&logoColor=D22128"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/JUnit-C2ABA9?style=flat&logo=junit5&logoColor=25A162"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Postman-A9C2BD?style=flat&logo=postman&logoColor=FF6C37"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/OpenSearch-C2B8A9?style=flat&logo=opensearch&logoColor=005EB8"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Logstash-C2B5A9?style=flat&logo=logstash&logoColor=005571"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Telegraph-A9C2B0?style=flat&logo=telegraph&logoColor=FAFAFA"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Git-43B02A?logo=git&logoColor=F05032"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Docker-E0993D?style=flat&logo=Docker&logoColor=2496ED"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-9EFFF5?style=flat&logo=Ubuntu&logoColor=E95420"/></a>
@@ -39,8 +41,8 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Selenium-E0A6B0?logo=Selenium&logoColor=43B02A"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/GWT-A6E0BA?logo=google&logoColor=E62A33"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/REST API-43B02A"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-A6D8E0?logo=jenkins&logoColor=D24939"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/GitlabCI-F7A7FA?logo=gitlab&logoColor=D24939"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Jenkins-A9C2B5?logo=jenkins&logoColor=D24939"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/GitlabCI-A9C2C0?logo=gitlab&logoColor=FC6D26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/macOS-F58482?logo=macos&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Vim-631210?logo=vim&logoColor=019733"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-C0A6E0?logo=linux&logoColor=FCC624"/></a>
@@ -62,7 +64,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-FFDEAD?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Bootstrap-FFDEAD?style=flat&logo=bootstrap&logoColor=1572B6"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Thymeleaf-F7A7FA?style=flat&logo=thymeleaf&logoColor=1572B6"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Thymeleaf-C2A9AF?style=flat&logo=thymeleaf&logoColor=005F0F"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Photoshop-634210?logo=adobephotoshop&logoColor=31A8FF"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Illustrator-008DF7?logo=adobeillustrator&logoColor=FF9A00"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/MicrosoftAccess-93DBA6?logo=microsoftaccess&logoColor=A4373A"/></a>
