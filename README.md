@@ -46,7 +46,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/Linux-C0A6E0?logo=linux&logoColor=FCC624"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CentOS-C0A6E0?logo=centos&logoColor=FCC624"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Ubuntu-C0A6E0?logo=ubuntu&logoColor=FCC624"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Shell-000?logo=powershell&logoColor=5391FE"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Shell-000?logo=&logoColor=5391FE"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/IntelliJ IDEA-F58482?logo=intellijidea&logoColor=000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Visual Studio Code-FAD8A7?logo=visualstudiocode&logoColor=007ACC"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/SublimeText-A7D6FA?logo=sublimetext&logoColor=FF9800"/></a>
@@ -58,7 +58,7 @@
 <a href="javascript:"><img src="https://img.shields.io/badge/FileZilla-A7FABF?logo=filezilla&logoColor=BF0000"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/AWS-DBC293?logo=amazonaws&logoColor=232F3E"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/VirtualBox-E3BF7D?logo=virtualbox&logoColor=183A61"/></a>
-<a href="javascript:"><img src="https://img.shields.io/badge/Unity?logo=unity&logoColor=183A61"/></a>
+<a href="javascript:"><img src="https://img.shields.io/badge/Unity-ADFFE7?style=flat&logo=unity&logoColor=183A61"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/HTML5-ADFFE7?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/CSS3-FFDEAD?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a href="javascript:"><img src="https://img.shields.io/badge/Bootstrap-FFDEAD?style=flat&logo=bootstrap&logoColor=1572B6"/></a>
